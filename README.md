@@ -16,7 +16,7 @@ The class also has a graphing feature using the Matplot and Numpy libraries.
 
 *Description:*
 
-   *Virus S.I.R. modeling. The program through user input of an infection and recovery rate are capable of seeing the impact that these factors play in the populations of the number of suspectptibles, Infectives, and Removed in a day (These terms are defined below).
+Virus S.I.R. modeling. The program through user input of an infection and recovery rate are capable of seeing the impact that these factors play in the populations of the number of suspectptibles, Infectives, and Removed in a day (These terms are defined below).
    	
 1.Terms:
     
@@ -37,7 +37,7 @@ The class also has a graphing feature using the Matplot and Numpy libraries.
     *I(t+1) - I(t) = b\*S(t)\*I(t) - a\*I(t): change in the number of infected
     *R(t+1) - R(t) = a\*I(t): change in the number removed
         
-##Definitions:
+Definitions:
     
     *Susceptible(S): A person who is what would be called healthy and is not infected.
     *Infectives(I): A person who is what would be called infected and is 
