@@ -1,7 +1,7 @@
 # SIR_Modeling
 This project is for modeling a virus using the SIR modeling system based on a fixed population with sub populations of susceptible, infected, removed peoples. 
 
-![Example Modeling Photo](/images/logo.png)
+![Example Modeling Photo](SIR_Modeling/Figure_Model_Example.png)
 
 This is a program for a SIR model class in python that can be used to simulate a virus given parameters of:
 
